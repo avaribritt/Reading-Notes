@@ -1,0 +1,21 @@
+# Reading-Notes
+Notes for code school
+
+## [Class 001](/Reading-Notes/Class001).
+
+This morning we made a Github Pages site! These are the beginner how to's!
+
+## HEADINGS
+
+To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header)! Or alternatively, you could use <h1>ipsum</h1>.
+
+Try to put a space between the number signs (#) and the heading name! Also put a blank space between each line before and after a heading!
+To make a second smaller header underneath the first heading, on the line below the text, add any number of == characters for heading level 1 or -- characters for heading level 2.
+
+### PARAGRAPHS
+
+To create paragraphs, use a blank line to separate one or more lines of text!
+Unless the paragraph is in a list, don’t indent paragraphs with spaces or tabs.
+
+
+## Class 02 
