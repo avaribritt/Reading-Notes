@@ -5,4 +5,4 @@ Notes for code school
 
 This morning we made a Github Pages site
 
-## Class 02! 
+## Class 02 
