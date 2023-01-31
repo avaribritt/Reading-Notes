@@ -1,7 +1,7 @@
 # Reading-Notes
 Notes for code school
 
-## [Class 001](/Reading-Notes/Class001).
+## [Class 001](/Reading-Notes/Class001)
 
 Notes for Coding Class 001 01/30/2023
 
