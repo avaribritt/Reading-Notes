@@ -1,4 +1,3 @@
-
 This morning we made a Github Pages site! These are the beginner how to's!
 
 ## HEADINGS
